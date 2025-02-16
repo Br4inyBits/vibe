@@ -9,4 +9,4 @@ The 3D Video Slider Carousel is an advanced web component developed using Next.j
 **Deploy :** `Vercel App`
 
 
-[![site](https://img.shields.io/badge/view_site-000?style=for-the-badge&logo=codemagic&logoColor=ff0000)](https://v1be.vercel.app/)
+[![site](https://img.shields.io/badge/view_site-000?style=for-the-badge&logo=codemagic&logoColor=C8C9B7)](https://v1be.vercel.app/)
